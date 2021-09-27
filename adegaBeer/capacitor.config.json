@@ -1,0 +1,6 @@
+{
+	"appId": "io.ionic.starter",
+	"appName": "adegaBeer",
+	"webDir": "www",
+	"bundledWebRuntime": false
+}

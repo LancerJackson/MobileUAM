@@ -1,0 +1,7 @@
+{
+  "name": "adegaBeer",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
